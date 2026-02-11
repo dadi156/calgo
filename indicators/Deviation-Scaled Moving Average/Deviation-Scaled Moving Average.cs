@@ -1,6 +1,6 @@
 using cAlgo.API;
 
-[Indicator(IsOverlay = true, TimeZone = TimeZones.UTC, AccessRights = AccessRights.FullAccess)]
+[Indicator(IsOverlay = true, TimeZone = TimeZones.UTC, AccessRights = AccessRights.None)]
 public class DSMA : Indicator
 {
     [Parameter("Period", DefaultValue = 40, MinValue = 5)]
