@@ -11,39 +11,38 @@ All indicators are provided as-is and intended for learning, experimentation, an
 ## Available Indicators
 
 ### Structure / Levels
-- Fair Value Gap (Extended)  
-- Pivot Points  
-- Round Numbers  
+- [Fair Value Gap (Extended)](https://ctrader.com/products/2554)  
+- [Pivot Points](https://ctrader.com/products/2529)
+- [Round Numbers](https://ctrader.com/products/2528)
 
 ### Volume
-- Volume Activity Profiler  
-- Volume Profile  
-- Volume Spread Analysis  
-- VWAP (Volume Weighted Average Price)  
+- [Volume Activity Profiler](https://ctrader.com/products/2990)
+- [Volume Profile](https://ctrader.com/products/3245)
+- [Volume Spread Analysis](https://ctrader.com/products/2996)
+- [VWAP (Volume Weighted Average Price)](https://ctrader.com/products/2524)
 
 ### Moving Averages
-- Anchored Moving Average  
-- Deviation-Scaled Moving Average  
-- Instantaneous Trendline  
-- Kaufman Adaptive Moving Average  
-- Moving Average Channel  
-- Moving Averages Suite  
-- Trend Channel Moving Average  
+- [Anchored Moving Average](https://ctrader.com/products/2520)
+- [Deviation-Scaled Moving Average](https://ctrader.com/products/2527)
+- [Instantaneous Trendline](https://ctrader.com/products/2929)
+- [Kaufman Adaptive Moving Average](https://ctrader.com/products/2523)
+- [Moving Average Channel](https://ctrader.com/products/2521)
+- [Moving Averages Suite](https://ctrader.com/products/2530)
+- [Trend Channel Moving Average](https://ctrader.com/products/2526)
 
 ### Regression-Based
-- Advanced Regression Channel  
-- Linear Regression Channel  
-- Nadaraya-Watson Kernel Regression  
+- [Advanced Regression Channel](https://ctrader.com/products/2731)
+- [Linear Regression Channel](https://ctrader.com/products/2535)
+- [Nadaraya-Watson Kernel Regression](https://ctrader.com/products/2537)
 
 ### Volatility
-- Initial Balance  
-- Trend Volatility Trail  
+- [Initial Balance](https://ctrader.com/products/2707)
+- [Trend Volatility Trail](https://ctrader.com/products/2544)
 
 ### Oscillators / Filters
-- Balance of Power  
+- [Balance of Power]()
 - [Price-Time Filtering](https://ctrader.com/products/3134)
-- <a href="https://ctrader.com/products/3134" target="_blank" rel="noopener noreferrer">Price-Time Filtering</a>
-- Waddah Attar Explosion  
+- [Waddah Attar Explosion](https://ctrader.com/products/3133)
 
 ---
 
