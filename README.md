@@ -41,7 +41,7 @@ All indicators are provided as-is and intended for learning, experimentation, an
 
 ### Oscillators / Filters
 - Balance of Power  
-- Price-Time Filtering  
+- [Price-Time Filtering](https://ctrader.com/products/3134)
 - Waddah Attar Explosion  
 
 ---
