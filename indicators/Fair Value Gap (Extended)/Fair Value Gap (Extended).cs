@@ -7,7 +7,7 @@ namespace cAlgo
     /// Main Indicator: Orchestrates FVG detection
     /// Multi-Timeframe: Detects on selected TF, displays on current TF
     /// </summary>
-    [Indicator(IsOverlay = true, TimeZone = TimeZones.UTC, AccessRights = AccessRights.FullAccess)]
+    [Indicator(IsOverlay = true, TimeZone = TimeZones.UTC, AccessRights = AccessRights.None)]
     public partial class FairValueGap : Indicator
     {
         #region MVC Components
