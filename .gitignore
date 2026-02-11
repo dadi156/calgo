@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Except .gitignore itself
+!.gitignore
+
+# Except .cs files
+!*.cs
+
+# Ignore files in subdirectories except .cs files
+!*/
+
+backups/
+builds/
+docs/
+obj/
